@@ -1,16 +1,19 @@
-## Hi there 👋
+## Sobre mim
 
-<!--
-**KauaGomes07/KauaGomes07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Me chamo Kauã;
+- Atuamente curso Ciência da Computação na Universidade Estadual da Paraíba - UEPB;
+- Sonho em ser desenvolvedor back-end
 
-Here are some ideas to get you started:
+[![portfolio](https://img.shields.io/badge/meu_portifólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kauagomes07.github.io/MyPortifolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfsd/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block"><br>
+  <img align="center" alt="JS" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img align="center" alt="TS" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+  <img align="center" alt="Python" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
