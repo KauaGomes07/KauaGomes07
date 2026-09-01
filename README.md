@@ -1,7 +1,6 @@
 ## Sobre mim
 
 - Me chamo Kauã;
-- Atualmente estudando Java;
 - Atuamente curso Ciência da Computação na Universidade Estadual da Paraíba - UEPB;
 - Sonho em ser desenvolvedor back-end
 
