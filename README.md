@@ -1,22 +1,11 @@
 ## Sobre mim
 
 - Me chamo Kauã;
-- Atuamente curso Ciência da Computação na Universidade Estadual da Paraíba - UEPB;
-- Sonho em ser desenvolvedor back-end
+- Atualmente curso Ciência da Computação na Universidade Estadual da Paraíba - UEPB;
 
 [![portfolio](https://img.shields.io/badge/meu_portifólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kauagomes07.github.io/MyPortifolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauaoliverdev/)
 
-<div style="display: inline-block"><br>
-  <img align="center" alt="JS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+### Tecnologias
 
-  <img align="center" alt="TS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-  <img align="center" alt="Java" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-
-  <img align="center" alt="SQL" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-</div>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,nodejs,py,mongodb,postgres,prisma" />
